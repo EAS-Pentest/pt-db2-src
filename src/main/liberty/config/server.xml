@@ -1,5 +1,5 @@
 <server description="Sample Open Liberty server">
-<!-- add comment to trigger builds
+<!-- add comment to trigger builds Chaitanya's Update
   <featureManager>
     <feature>restfulWS-3.1</feature>
     <feature>jsonb-3.0</feature>
