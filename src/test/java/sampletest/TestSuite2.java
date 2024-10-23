@@ -9,7 +9,7 @@ public class TestSuite2 {
    //Uncomment @Test to get the result with 'fail' status, 
    //but be aware the build will not pass.
    //Once the test result is validated, comment back to get a pass build
-   //@Test
+   @Test
    public void negativeTest1() {
 
         fail("negativeTest1 to test Failure result");
@@ -18,7 +18,7 @@ public class TestSuite2 {
    //Uncomment @Test to get the result with 'error' status, 
    //but be aware the build will not pass.
    //Once the test result is validated, comment back to get a pass build
-   //@Test
+   @Test
    public void negativeTest2() throws Exception {
 
         throw new Exception("negativeTest2 to test Error result");
